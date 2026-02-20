@@ -1,0 +1,3 @@
+[submodule "HackAI26-Training-Data"]
+	path = HackAI26-Training-Data
+	url = https://github.com/PsychedelicPalimpsest/HackAI26-Training-Data.git

@@ -1,0 +1,6 @@
+mediapipe
+opencv-python
+sounddevice
+scipy
+openai-whisper
+torch
